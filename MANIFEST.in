@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include jv_and_stock_entry *.css
+recursive-include jv_and_stock_entry *.csv
+recursive-include jv_and_stock_entry *.html
+recursive-include jv_and_stock_entry *.ico
+recursive-include jv_and_stock_entry *.js
+recursive-include jv_and_stock_entry *.json
+recursive-include jv_and_stock_entry *.md
+recursive-include jv_and_stock_entry *.png
+recursive-include jv_and_stock_entry *.py
+recursive-include jv_and_stock_entry *.svg
+recursive-include jv_and_stock_entry *.txt
+recursive-exclude jv_and_stock_entry *.pyc
