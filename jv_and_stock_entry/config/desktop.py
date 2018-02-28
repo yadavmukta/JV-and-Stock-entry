@@ -8,7 +8,5 @@ def get_data():
 			"module_name": "Jv And Stock Entry",
 			"color": "grey",
 			"icon": "octicon octicon-file-directory",
-			"type": "module",
-			"label": _("Jv And Stock Entry")
 		}
 	]
